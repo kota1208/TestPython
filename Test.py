@@ -56,5 +56,3 @@ sub2.show()
 print(SubClass.globalVar)
 super.showGlobalTest1()
 super.showGlobalTest2()
-
-# git
