@@ -42,5 +42,5 @@ class MinuteSearch:
 
 list=[1,3,5,6,8,23,55,66]
 search=MinuteSearch(list)
-print((search.executeMinuteSearch(6)))
+print((search.executeMinuteSearch(23)))
 
